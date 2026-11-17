@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AlertDialog.SettingsLib" parent="@android:style/Theme.DeviceDefault.Dialog.Alert" />
+    <style name="PreferenceTheme.SettingsLib" />
+    <style name="Switch.SettingsLib" />
+    <style name="SwitchCompat.SettingsLib" />
+    <style name="Theme.SubSettingsBase.Expressive" parent="@android:style/Theme.DeviceDefault" />
+</resources>
