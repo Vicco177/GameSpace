@@ -92,7 +92,7 @@ dependencies {
     implementation("com.google.android.material:material:1.13.0")
     implementation("com.google.code.gson:gson:2.13.2")
     implementation("com.google.dagger:hilt-android:2.57.2")
-    kapt("org.jetbrains.kotlin:kotlin-metadata-jvm:2.3.0")
+    kapt("org.jetbrains.kotlin:kotlin-metadata-jvm:2.3.21")
     kapt("com.google.dagger:hilt-compiler:2.57.2")
 
     testImplementation("junit:junit:4.13.2")
