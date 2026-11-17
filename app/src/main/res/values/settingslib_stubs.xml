@@ -5,4 +5,5 @@
     <style name="Switch.SettingsLib" parent="" />
     <style name="SwitchCompat.SettingsLib" parent="" />
     <style name="Theme.SubSettingsBase.Expressive" parent="@android:style/Theme.DeviceDefault" />
+    <attr name="lottie_rawRes" format="reference" />
 </resources>
